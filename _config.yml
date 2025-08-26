@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "Estudante de Engenharia & Ciência da Computação. Apaixonado por C++, computação gráfica, arquitetura de engines e por construir projetos open source."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joelsonmendonca/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Joelsonsmendonca"
@@ -72,9 +72,9 @@ author:
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joelsonmendonca/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Joelsonsmendonca"
