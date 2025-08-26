@@ -1,26 +1,35 @@
 # _data/ui-text.yml
 
+# Você pode apagar a seção "en:" se quiser, mas pode deixar para referência.
 en:
-  # ... (pode deixar a seção em inglês aqui para referência futura)
   follow_label: "Follow:"
-  read_more_label: "Read More"
-  posts_label: "Posts"
-  recent_posts_label: "Recent Posts"
-  share_on_label: "Share on"
-  # ... etc
+  # ...
 
 pt-BR:
+  # Labels do rodapé e da barra lateral
   follow_label: "Siga:"
-  read_more_label: "Ler Mais"
+  feed_label: "Feed"
   posts_label: "Posts"
-  recent_posts_label: "Posts Recentes"
-  share_on_label: "Compartilhe em"
+  recent_posts_label: "Posts Recentes" # <-- TRADUÇÃO ADICIONADA
+  categories_label: "Categorias"
+  tags_label: "Tags"
+  
+  # Labels dos posts
+  read_more_label: "Ler Mais"
+  share_on_label: "Compartilhe em" # <-- TRADUÇÃO ADICIONADA
+  meta:
+    tags: "Tags" # <-- TRADUÇÃO ADICIONADA
+    categories: "Categorias" # <-- TRADUÇÃO ADICIONADA
   page:
+    date_published: "Publicado em"
+    date_updated: "Atualizado em" # <-- TRADUÇÃO ADICIONADA
     previous: "Anterior"
     next: "Próximo"
+    comments: "Comentários"
+    reading_time: "Tempo de leitura"
+    words: "palavras"
   
-  meta:
-    tags: "Tags"
-    categories: "Categorias"
-
-  # Adicione qualquer outra tradução que você precise aqui
+  # Outros
+  results_found: "Resultado(s) encontrado(s)"
+  search:
+    placeholder: "Digite sua busca"
