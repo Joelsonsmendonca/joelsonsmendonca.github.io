@@ -1,0 +1,26 @@
+# _data/ui-text.yml
+
+en:
+  # ... (pode deixar a seção em inglês aqui para referência futura)
+  follow_label: "Follow:"
+  read_more_label: "Read More"
+  posts_label: "Posts"
+  recent_posts_label: "Recent Posts"
+  share_on_label: "Share on"
+  # ... etc
+
+pt-BR:
+  follow_label: "Siga:"
+  read_more_label: "Ler Mais"
+  posts_label: "Posts"
+  recent_posts_label: "Posts Recentes"
+  share_on_label: "Compartilhe em"
+  page:
+    previous: "Anterior"
+    next: "Próximo"
+  
+  meta:
+    tags: "Tags"
+    categories: "Categorias"
+
+  # Adicione qualquer outra tradução que você precise aqui
