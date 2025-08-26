@@ -81,6 +81,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jsantos__2/"
+      atom_feed:
+        hide: true
+
 defaults:
   # _posts
   - scope:
