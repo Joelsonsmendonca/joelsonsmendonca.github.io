@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Joelson Mendonça"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Estudante de Engenharia & Ciência da Computação. Apaixonado por C++, computação gráfica, arquitetura de engines e por construir projetos open source."
   links:
     - label: "Website"
