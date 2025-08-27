@@ -1,41 +1,32 @@
-# _data/ui-text.yml
-
-# Você pode apagar a seção "en:" se quiser, mas pode deixar para referência.
-en:
-  follow_label: "Follow:"
-  # ...
-
 pt-BR:
   # Labels do rodapé e da barra lateral
   follow_label: "Siga:"
   feed_label: "Feed"
   posts_label: "Posts"
-  recent_posts_label: "Posts Recentes" # <-- TRADUÇÃO ADICIONADA
+  recent_posts_label: "Posts Recentes"
   categories_label: "Categorias"
   tags_label: "Tags"
   
   # Labels dos posts
   read_more_label: "Ler Mais"
-  share_on_label: "Compartilhe em" # <-- TRADUÇÃO ADICIONADA
+  share_on_label: "Compartilhe em"
+  
   meta:
-    tags: "Tags" # <-- TRADUÇÃO ADICIONADA
-    categories: "Categorias" # <-- TRADUÇÃO ADICIONADA
+    tags: "Tags"
+    categories: "Categorias"
+
+  # A seção "page" agora está UNIFICADA
   page:
     date_published: "Publicado em"
-    date_updated: "Atualizado em" # <-- TRADUÇÃO ADICIONADA
+    date_updated: "Atualizado em"
     previous: "Anterior"
     next: "Próximo"
     comments: "Comentários"
-    reading_time: "Tempo de leitura"
     words: "palavras"
+    minute_read: "minuto de leitura"
+    minutes_read: "minutos de leitura"
   
   # Outros
   results_found: "Resultado(s) encontrado(s)"
   search:
     placeholder: "Digite sua busca"
-
-  recent_posts_label: "Posts Recentes"
-  page:
-    reading_time: "de leitura" # O tema constrói a frase "X minutos de leitura"
-    minute_read: "minuto de leitura"
-    minutes_read: "minutos de leitura"
