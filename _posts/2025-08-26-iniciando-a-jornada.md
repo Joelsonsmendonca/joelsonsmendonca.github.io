@@ -3,6 +3,7 @@ title: "Iniciando a Jornada: Meu Novo Blog e a Construção de uma Game Engine"
 date: 2025-08-26 15:30:00 -0300
 categories: [jornada, introdução]
 tags: [cpp, gamedev, aprendizado]
+comments: true
 ---
 
 É com grande entusiasmo que eu lanço hoje este novo espaço na internet. Depois de algumas horas de configuração com o GitHub Pages e o Jekyll (o que já foi uma aventura de aprendizado por si só!), este blog está oficialmente no ar e servirá como o diário de bordo da minha jornada como desenvolvedor.
