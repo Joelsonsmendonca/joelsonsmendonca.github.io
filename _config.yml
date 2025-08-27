@@ -115,27 +115,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-# ===================================================================
-# CONFIGURAÇÃO DE COMENTÁRIOS (Giscus - Final e Corrigido)
-# ===================================================================
-comments:
-  provider: "giscus"
-  giscus:
-    repo: "Joelsonsmendonca/joelsonsmendonca.github.io"
-    repo_id: "R_kgDOPkt-Ww"         # <-- Seu ID do Repositório
-    category: "Comments"                 # <-- O nome da sua categoria
-    category_id: "DIC_kwDOPkt-W84Curha" # <-- Seu novo ID da Categoria
-    mapping: "pathname"
-    reactions_enabled: "1"
-    emit_metadata: "0"
-    input_position: "bottom"
-    theme: "preferred_color_scheme"
-    lang: "pt"
-
-
-
-
-
-  
