@@ -117,7 +117,26 @@ tag_archive:
   path: /tags/
 
 
-
+# ===================================================================
+# CONFIGURAÇÃO DE COMENTÁRIOS (Giscus - Versão Completa)
+# ===================================================================
+comments:
+  provider: "giscus"
+  giscus:
+    # As informações do seu script
+    repo: "Joelsonsmendonca/joelsonsmendonca.github.io"
+    repo_id: "R_kgDOPkt-Ww"
+    category: "General"                 # O nome da sua categoria de discussão
+    category_id: "DIC_kwDOPkt-W84Cureg"
+    
+    # Parâmetros adicionais do seu script (MUITO IMPORTANTES)
+    mapping: "pathname"                 # Como associar posts a discussões
+    strict: "0"
+    reactions_enabled: "1"              # Habilita reações (0 = não, 1 = sim)
+    emit_metadata: "0"
+    input_position: "bottom"            # Posição da caixa de comentário (top ou bottom)
+    theme: "preferred_color_scheme"     # Tema que se adapta ao sistema do usuário
+    lang: "pt"                          # Idioma dos botões do Giscus
 
 
 
