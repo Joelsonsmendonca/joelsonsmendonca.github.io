@@ -95,6 +95,7 @@ defaults:
       comments: true
       share: true
       related: true
+      lang: "pt-BR"
   # _pages
   - scope:
       path: "_pages"
@@ -102,6 +103,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      lang: "pt-BR"
+  - scope:
+      path: "index.html"
+    values:
+      lang: "pt-BR"
 
 category_archive:
   type: liquid
