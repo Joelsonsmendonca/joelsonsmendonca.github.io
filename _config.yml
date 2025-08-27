@@ -115,3 +115,24 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo: "joelsonsmendonca/joelsonsmendonca.github.io" # Seu repositório
+    repo_id: "SEU_REPO_ID_AQUI"         # Cole o ID que o Giscus te deu
+    category_name: "General"             # Use a categoria que você habilitou
+    category_id: "SUA_CATEGORY_ID_AQUI" # Cole o ID da categoria que o Giscus te deu
+    theme: "light"                       # Tema dos comentários (pode ser 'dark', 'transparent_dark', etc)
+    lang: "pt"                           # Idioma dos botões do Giscus
+
+
+
+
+
+
+
+
+
+
+  
