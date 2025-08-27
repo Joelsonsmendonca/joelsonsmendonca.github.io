@@ -116,19 +116,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# ===================================================================
-# CONFIGURAÇÃO DE COMENTÁRIOS (Giscus)
-# ===================================================================
-comments:
-  provider: "giscus"
-  giscus:
-    repo: "Joelsonsmendonca/joelsonsmendonca.github.io"
-    repo_id: "R_kgDOPkt-Ww"         
-    category_name: "General"             # (ou a categoria que você escolheu)
-    category_id: "DIC_kwDOPkt-W84Cureg" 
-    theme: "preferred_color_scheme"                       # Tema dos comentários (pode mudar para "dark", etc)
-    lang: "pt"                           # Idioma dos botões do Giscus ("Entrar com o GitHub", etc)
-
 
 
 
