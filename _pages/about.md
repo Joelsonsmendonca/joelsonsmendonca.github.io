@@ -7,7 +7,7 @@ Este blog é meu diário de bordo no mundo da tecnologia — onde registro desco
 
 ### Quem Sou Eu?
 
-Olá! Meu nome é Joelson Mendonça, e este site é o diário de bordo da minha jornada (um pouco maluca) pelo mundo da tecnologia.
+Olá! Meu nome é Joelson Mendonça.
 
 Sou um estudante apaixonado por resolver problemas complexos, o que me levou a cursar duas graduações simultaneamente: **Ciência da Computação** e **Engenharia da Computação**. Meu fascínio não está apenas no software, mas em como ele interage com o hardware em um nível fundamental.
 
