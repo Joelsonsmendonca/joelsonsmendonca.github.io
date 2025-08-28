@@ -115,3 +115,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+  # Ativa o sistema de comentários do tema
+comments:
+  provider: "giscus"
