@@ -3,9 +3,11 @@ permalink: /about/
 title: "Sobre"
 ---
 
-Olá! Meu nome é Joelson Mendonça, e este site é o diário de bordo da minha jornada (um pouco maluca) pelo mundo da tecnologia.
+Este blog é meu diário de bordo no mundo da tecnologia — onde registro descobertas, erros, conquistas e reflexões de uma jornada nada linear.
 
 ### Quem Sou Eu?
+
+Olá! Meu nome é Joelson Mendonça, e este site é o diário de bordo da minha jornada (um pouco maluca) pelo mundo da tecnologia.
 
 Sou um estudante apaixonado por resolver problemas complexos, o que me levou a cursar duas graduações simultaneamente: **Ciência da Computação** e **Engenharia da Computação**. Meu fascínio não está apenas no software, mas em como ele interage com o hardware em um nível fundamental.
 
@@ -24,8 +26,33 @@ Além das duas faculdades, estou atualmente em uma imersão de 8 meses para atin
 
 Este blog é a crônica dessa jornada. É a prova de que com disciplina, consistência e uma boa dose de cafeína, é possível transformar sonhos ambiciosos em projetos concretos.
 
+# Minha Filosofia (O Homem na Arena)
+
+Eu encontrei este trecho de um discurso de **Theodore Roosevelt** que resume perfeitamente a filosofia que tento aplicar na minha jornada como desenvolvedor e criador. É um lembrete de que o que realmente importa é a coragem de tentar, de construir e de estar *"na arena"*, independentemente dos erros e das dificuldades do caminho.
+
+---
+
+> Não é o crítico que importa; nem aquele que aponta onde o homem forte tropeça,  
+> ou como o autor das façanhas poderia tê-las feito melhor.  
+>
+> O crédito pertence ao homem que está de fato na arena,  
+> cujo rosto está manchado de poeira, suor e sangue;  
+> que se esforça bravamente; que erra, que tenta de novo e de novo,  
+> porque não há esforço sem erro e falha;  
+> mas que de fato se empenha em realizar seus feitos;  
+> que conhece o grande entusiasmo, a grande devoção;  
+> que se consome em uma causa digna;  
+>
+> Que, na melhor das hipóteses, conhece no final o triunfo da grande conquista,  
+> e que, na pior das hipóteses, se falhar, ao menos falha ousando grandemente,  
+> de modo que seu lugar jamais será ao lado daquelas almas frias e tímidas  
+> que não conhecem nem a vitória nem a derrota.  
+>
+> — *Theodore Roosevelt, 1910*
+
+
 ### Vamos nos Conectar
 
-Adoraria me conectar com você. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joelsonmendonca/), ver meus projetos no [GitHub](github.com/Joelsonsmendonca) ou me seguir no [Instagram](https://www.instagram.com/jsantos__2/).
+Quer trocar ideias? Estou no [LinkedIn](https://www.linkedin.com/in/joelsonmendonca/), compartilho projetos no [GitHub](github.com/Joelsonsmendonca) e divido um pouco da vida no [Instagram](https://www.instagram.com/jsantos__2/).
 
 Obrigado por fazer parte desta jornada!
