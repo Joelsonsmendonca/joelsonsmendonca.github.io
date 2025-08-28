@@ -2,7 +2,7 @@
 title: "Iniciando a Jornada: Meu Novo Blog e a Construção de uma Game Engine"
 date: 2025-08-26 15:30:00 -0300
 categories: [jornada, introdução]
-tags: [cpp, gamedev, aprendizado]
+tags: [Inicio]
 comments: true
 ---
 
