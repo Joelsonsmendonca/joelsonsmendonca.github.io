@@ -2,33 +2,47 @@
 permalink: /about/
 title: "Sobre"
 ---
+# Sobre
 
-Este blog é meu diário de bordo no mundo da tecnologia — onde registro descobertas, erros, conquistas e reflexões de uma jornada nada linear.
+Este blog é meu **diário de bordo no mundo da tecnologia** — onde registro descobertas, erros, conquistas e reflexões de uma jornada nada linear.
+
+---
 
 ### Quem Sou Eu?
 
-Olá! Meu nome é Joelson Mendonça.
+Olá! Meu nome é **Joelson Mendonça**.
 
-Sou um estudante apaixonado por resolver problemas complexos, o que me levou a cursar duas graduações simultaneamente: **Ciência da Computação** e **Engenharia da Computação**. Meu fascínio não está apenas no software, mas em como ele interage com o hardware em um nível fundamental.
+Sou um estudante apaixonado por resolver problemas complexos, o que me levou a cursar **duas graduações simultaneamente**: Ciência da Computação e Engenharia da Computação. 
 
-Minha linguagem de escolha e principal área de estudo é o **C++**, com um foco especial em **computação gráfica e arquitetura de game engines**. Para mim, uma engine não é apenas uma ferramenta para criar jogos, mas sim um dos desafios de engenharia de software mais completos e fascinantes que existem.
+Meu fascínio não está apenas no software, mas em como ele interage com o hardware em um nível fundamental.
 
-### A Missão Deste Blog
+Minha linguagem de escolha e principal área de estudo é o **C++**, com um foco especial em **computação gráfica** e **arquitetura de game engines**. Para mim, uma engine não é apenas uma ferramenta para criar jogos, mas sim um dos desafios de engenharia de software mais completos e fascinantes que existem.
 
-Acredito que a melhor forma de aprender de verdade é construindo e compartilhando. Este blog nasceu com dois objetivos principais:
+---
 
-1.  **Construir em Público:** Documentar o processo, os desafios e as descobertas da construção da minha própria game engine 2D do zero, bem como outros projetos que exploram a fundo o C++.
-2.  **Criar uma Comunidade:** Conectar-me com outros estudantes e desenvolvedores que compartilham da mesma paixão, trocando conhecimento e crescendo juntos.
+## A Missão Deste Blog
 
-### O Plano de Voo
+Acredito que a melhor forma de aprender de verdade é **construindo e compartilhando**. 
 
-Além das duas faculdades, estou atualmente em uma imersão de 8 meses para atingir a fluência em inglês, com o objetivo de futuramente fazer um Ph.D. em uma universidade de ponta e, um dia, fundar meu próprio estúdio de jogos.
+Por isso, blog nasceu com dois objetivos principais:
 
-Este blog é a crônica dessa jornada. É a prova de que com disciplina, consistência e uma boa dose de cafeína, é possível transformar sonhos ambiciosos em projetos concretos.
+-  **Construir em Público:** Documentar o processo, os desafios e as descobertas da construção da minha própria **game engine 2D do zero**, bem como outros projetos que exploram a fundo o C++.
+-  **Criar uma Comunidade:** Conectar-me com outros estudantes e desenvolvedores que compartilham da mesma paixão, trocando conhecimento e crescendo juntos.
+-  
+---
+
+## O Plano de Voo
+
+Além das duas faculdades, estou atualmente em uma imersão de 8 meses para atingir a fluência em inglês, com o objetivo de futuramente realizar um Ph.D (ou algo do tipo). em uma universidade de ponta e, um dia, **fundar meu próprio estúdio de jogos.**
+
+Este blog é a crônica dessa jornada. É a prova de que com disciplina e consistência, é possível transformar sonhos ambiciosos em projetos concretos.
+
+---
 
 # Minha Filosofia (O Homem na Arena)
 
-Eu encontrei este trecho de um discurso de **Theodore Roosevelt** que resume perfeitamente a filosofia que tento aplicar na minha jornada como desenvolvedor e criador. É um lembrete de que o que realmente importa é a coragem de tentar, de construir e de estar *"na arena"*, independentemente dos erros e das dificuldades do caminho.
+Eu encontrei este trecho de um discurso de **Theodore Roosevelt** que resume perfeitamente a filosofia que tento aplicar na minha jornada como desenvolvedor e criador. 
+É um lembrete de que o que realmente importa é a coragem de tentar, de construir e de estar *"na arena"*, independentemente dos erros e das dificuldades do caminho.
 
 ---
 
@@ -49,10 +63,10 @@ Eu encontrei este trecho de um discurso de **Theodore Roosevelt** que resume per
 > que não conhecem nem a vitória nem a derrota.  
 >
 > — *Theodore Roosevelt, 1910*
-
+---
 
 ### Vamos nos Conectar
 
 Quer trocar ideias? Estou no [LinkedIn](https://www.linkedin.com/in/joelsonmendonca/), compartilho projetos no [GitHub](github.com/Joelsonsmendonca) e divido um pouco da vida no [Instagram](https://www.instagram.com/jsantos__2/).
 
-Obrigado por fazer parte desta jornada!
+Obrigado por fazer parte desta jornada!🚀
