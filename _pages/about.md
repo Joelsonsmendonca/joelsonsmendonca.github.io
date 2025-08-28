@@ -2,7 +2,6 @@
 permalink: /about/
 title: "Sobre"
 ---
-# Sobre
 
 Este blog é meu **diário de bordo no mundo da tecnologia** — onde registro descobertas, erros, conquistas e reflexões de uma jornada nada linear.
 
