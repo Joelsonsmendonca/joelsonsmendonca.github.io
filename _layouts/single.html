@@ -40,6 +40,11 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        <div style="position: relative; width: 100%; max-width: 540px; margin: auto;">
+
+              <iframe width="540" height="305" src="https://4625a419.sibforms.com/serve/MUIFAOpLLYpyWJPrfYpZO34zBuNNkfGJBBSpzEIqJD-g7NsNb6bpN8TWSTurntVfmtmdsAsNf94M1gto5jT433dj7Ov6xyY6LqkNPsY8jRM_wmGS1jhLwDmS3AgBbjZC_M76dBsijqPjbcHZKEylmVvi8T3C3C9zx2aGx3zGHlVbADsRBMF3zpxaD78CU5Miy_Q08LDD1ILSYaLP" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+
+         </div>
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
@@ -49,12 +54,7 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-<div style="position: relative; width: 100%; max-width: 540px; margin: auto; padding-top: 56.5%;">
-
-    <iframe width="540" height="305" src="https://4625a419.sibforms.com/serve/MUIFAOpLLYpyWJPrfYpZO34zBuNNkfGJBBSpzEIqJD-g7NsNb6bpN8TWSTurntVfmtmdsAsNf94M1gto5jT433dj7Ov6xyY6LqkNPsY8jRM_wmGS1jhLwDmS3AgBbjZC_M76dBsijqPjbcHZKEylmVvi8T3C3C9zx2aGx3zGHlVbADsRBMF3zpxaD78CU5Miy_Q08LDD1ILSYaLP" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
-
-</div>
-
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
